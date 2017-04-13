@@ -1,0 +1,9 @@
+﻿  SmokeTest.c
+d:\学习文件\游戏开发核心\practice3-skeleton\practice3-skeleton\smoketest.c(23): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\学习文件\游戏开发核心\practice3-skeleton\practice3-skeleton\smoketest.c(24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\学习文件\游戏开发核心\practice3-skeleton\practice3-skeleton\smoketest.c(36): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\学习文件\游戏开发核心\practice3-skeleton\practice3-skeleton\smoketest.c(220): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\学习文件\游戏开发核心\practice3-skeleton\practice3-skeleton\smoketest.c(244): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+d:\学习文件\游戏开发核心\practice3-skeleton\practice3-skeleton\smoketest.c(260): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+  Practice3-Skeleton.vcxproj -> D:\学习文件\游戏开发核心\Practice3-Skeleton\Debug\Practice3-Skeleton.exe
+  Practice3-Skeleton.vcxproj -> D:\学习文件\游戏开发核心\Practice3-Skeleton\Debug\Practice3-Skeleton.pdb (Full PDB)
